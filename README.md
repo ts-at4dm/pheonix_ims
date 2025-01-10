@@ -1,2 +1,9 @@
-# pheonix_ims
-Pheonix IMS is an inventory management system developed in python.
+<div align="center">
+    <h1>Pheonix IMS</h1>
+</div>
+
+<div align="center">
+    <h2>README build: In Progress</h2>
+</div>
+
+
